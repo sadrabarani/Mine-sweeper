@@ -1,2 +1,3 @@
 # Mine-sweeper
-A c++ Minesweeper game  Minesweeper lets you specify width, height, and number of mines. It also keeps track of how long you are taking.
+dey 402 , first semester
+A c++ Minesweeper game  Minesweeper lets you specify width, height, and number of mines. this the final project of fundanmentals of computer science 
