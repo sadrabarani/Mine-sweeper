@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/mine sweeper/cmake-build-debug/CMakeFiles/mine_sweeper.dir
+C:/Users/USER/CLionProjects/mine sweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/mine sweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
